@@ -1,0 +1,142 @@
+{
+  "fundamental-rights": {
+    "title": "My Fundamental Rights",
+    "icon": "⚖️",
+    "introduction": "Fundamental Rights are the basic human rights enshrined in the Constitution of India which are guaranteed to all citizens. These rights are essential for the all-round development of individuals and the country.",
+    "sections": [
+      {
+        "heading": "Right to Equality (Articles 14-18)",
+        "content": "Ensures equality before law, prohibits discrimination on grounds of religion, race, caste, sex or place of birth, and abolishes untouchability and titles."
+      },
+      {
+        "heading": "Right to Freedom (Articles 19-22)",
+        "content": "Includes freedom of speech and expression, assembly, association, movement, residence, and profession. Also includes protection in respect of conviction for offences."
+      },
+      {
+        "heading": "Right against Exploitation (Articles 23-24)",
+        "content": "Prohibits human trafficking, forced labor, and employment of children in factories and hazardous work."
+      },
+      {
+        "heading": "Right to Freedom of Religion (Articles 25-28)",
+        "content": "Guarantees freedom of conscience and free profession, practice and propagation of religion."
+      },
+      {
+        "heading": "Cultural and Educational Rights (Articles 29-30)",
+        "content": "Protects the interests of minorities and their right to establish and administer educational institutions."
+      },
+      {
+        "heading": "Right to Constitutional Remedies (Article 32)",
+        "content": "Empowers citizens to move to the Supreme Court for enforcement of their Fundamental Rights."
+      }
+    ],
+    "keyPoints": [
+      "Fundamental Rights can be suspended during a national emergency",
+      "Article 21 (Right to Life) is the most important fundamental right",
+      "The Supreme Court is the guardian of Fundamental Rights"
+    ]
+  },
+  "preamble": {
+    "title": "What is the Preamble?",
+    "icon": "📜",
+    "introduction": "The Preamble is the introductory statement of the Constitution that sets out the guiding purpose and principles of the document. It declares India to be a sovereign, socialist, secular, democratic republic.",
+    "sections": [
+      {
+        "heading": "Text of the Preamble",
+        "content": "WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC and to secure to all its citizens: JUSTICE, social, economic and political; LIBERTY of thought, expression, belief, faith and worship; EQUALITY of status and of opportunity; and to promote among them all FRATERNITY assuring the dignity of the individual and the unity and integrity of the Nation; IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November, 1949, do HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION."
+      },
+      {
+        "heading": "Key Words Explained",
+        "content": "SOVEREIGN: India is independent and not under any external power. SOCIALIST: Wealth is generated socially and shared equitably. SECULAR: No state religion; all religions are treated equally. DEMOCRATIC: Government by the people, of the people, for the people. REPUBLIC: Head of state is elected, not hereditary."
+      }
+    ],
+    "keyPoints": [
+      "The words 'Socialist' and 'Secular' were added by the 42nd Amendment in 1976",
+      "The Preamble can be amended but its basic structure cannot be changed",
+      "It embodies the basic philosophy and fundamental values of the Constitution"
+    ]
+  },
+  "student-duties": {
+    "title": "My Duties as a Student Citizen",
+    "icon": "📚",
+    "introduction": "As a young citizen of India, you have certain fundamental duties towards your nation. These duties help in building a strong and united India.",
+    "sections": [
+      {
+        "heading": "Respect the Constitution",
+        "content": "Abide by the Constitution and respect its ideals and institutions, the National Flag and the National Anthem."
+      },
+      {
+        "heading": "Cherish Our Heritage",
+        "content": "Cherish and follow the noble ideals which inspired our national struggle for freedom and protect our composite culture."
+      },
+      {
+        "heading": "Environmental Protection",
+        "content": "Protect and improve the natural environment including forests, lakes, rivers, wildlife and have compassion for living creatures."
+      },
+      {
+        "heading": "Excel in Education",
+        "content": "Develop scientific temper, humanism and the spirit of inquiry and reform. Strive towards excellence in all spheres of individual and collective activity."
+      }
+    ],
+    "keyPoints": [
+      "Fundamental Duties were added by the 42nd Amendment in 1976",
+      "There are 11 Fundamental Duties in total",
+      "As a student, focus on education, environmental protection, and respecting diversity"
+    ]
+  },
+  "cyber-laws": {
+    "title": "Cyber Laws & Safety",
+    "icon": "🔒",
+    "introduction": "In the digital age, it's important to understand your rights and responsibilities online. India has comprehensive cyber laws to protect citizens in the digital space.",
+    "sections": [
+      {
+        "heading": "Information Technology Act, 2000",
+        "content": "The IT Act is India's primary law dealing with cybercrime and electronic commerce. It provides legal recognition to electronic transactions and penalizes cyber offenses."
+      },
+      {
+        "heading": "Common Cyber Crimes",
+        "content": "Cyberbullying, identity theft, hacking, phishing, online fraud, data theft, and spreading misinformation are all punishable offenses under Indian law."
+      },
+      {
+        "heading": "Online Safety Tips",
+        "content": "Use strong passwords, enable two-factor authentication, be careful about sharing personal information, verify sources before clicking links, and report suspicious activities."
+      },
+      {
+        "heading": "Your Digital Rights",
+        "content": "You have the right to privacy online, the right to be forgotten, and the right to protect your personal data."
+      }
+    ],
+    "keyPoints": [
+      "Cyberbullying is a punishable offense - report it immediately",
+      "Never share your passwords or personal information online",
+      "Think before you post - digital footprints are permanent"
+    ]
+  },
+  "elections": {
+    "title": "Understanding Elections",
+    "icon": "🗳️",
+    "introduction": "Elections are the foundation of democracy. Understanding how elections work helps you become an informed and responsible citizen.",
+    "sections": [
+      {
+        "heading": "Electoral System in India",
+        "content": "India follows a first-past-the-post system for Lok Sabha and Vidhan Sabha elections. The candidate with the most votes wins, even without an absolute majority."
+      },
+      {
+        "heading": "Election Commission of India",
+        "content": "An autonomous constitutional authority responsible for administering election processes in India. It ensures free and fair elections."
+      },
+      {
+        "heading": "Voting Process",
+        "content": "Citizens aged 18 and above can vote. Voting is done through Electronic Voting Machines (EVMs) and NOTA (None of the Above) option is available."
+      },
+      {
+        "heading": "Student Participation",
+        "content": "While you may not be able to vote yet, you can participate by spreading awareness, volunteering during elections, and understanding political issues."
+      }
+    ],
+    "keyPoints": [
+      "India is the world's largest democracy",
+      "Voting age was reduced from 21 to 18 by the 61st Amendment in 1989",
+      "Your vote is your voice - make it count when you turn 18"
+    ]
+  }
+}

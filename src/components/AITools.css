@@ -1,0 +1,74 @@
+/* AI Tools Component Styles */
+.ai-tools {
+  margin-bottom: 3rem;
+}
+
+.tools-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+}
+
+.tool-card {
+  background: var(--card-bg);
+  padding: 2rem;
+  border-radius: 20px;
+  box-shadow: var(--shadow);
+  text-align: center;
+  transition: var(--transition);
+  border-top: 4px solid transparent;
+}
+
+.tool-card:hover {
+  transform: translateY(-8px);
+  box-shadow: var(--shadow-lg);
+}
+
+.quiz-card {
+  border-top-color: #4CAF50;
+}
+
+.quiz-card:hover {
+  background: linear-gradient(180deg, rgba(76, 175, 80, 0.05) 0%, white 100%);
+}
+
+.chat-card {
+  border-top-color: #2196F3;
+}
+
+.chat-card:hover {
+  background: linear-gradient(180deg, rgba(33, 150, 243, 0.05) 0%, white 100%);
+}
+
+.tool-icon {
+  font-size: 4rem;
+  margin-bottom: 1rem;
+}
+
+.tool-title {
+  font-size: 1.5rem;
+  color: var(--text-primary);
+  margin-bottom: 1rem;
+}
+
+.tool-description {
+  font-size: 1rem;
+  color: var(--text-secondary);
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .tools-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .tool-card {
+    padding: 1.5rem;
+  }
+
+  .tool-icon {
+    font-size: 3rem;
+  }
+}

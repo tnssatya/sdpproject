@@ -1,0 +1,113 @@
+{
+  "teenager": [
+    {
+      "id": "fundamental-rights",
+      "title": "My Fundamental Rights",
+      "icon": "⚖️",
+      "description": "Learn about the six fundamental rights guaranteed to every Indian citizen",
+      "color": "#4CAF50"
+    },
+    {
+      "id": "preamble",
+      "title": "What is the Preamble?",
+      "icon": "📜",
+      "description": "Understand the soul of our Constitution",
+      "color": "#2196F3"
+    },
+    {
+      "id": "student-duties",
+      "title": "My Duties as a Student Citizen",
+      "icon": "📚",
+      "description": "Know your responsibilities towards the nation",
+      "color": "#FF9800"
+    },
+    {
+      "id": "cyber-laws",
+      "title": "Cyber Laws & Safety",
+      "icon": "🔒",
+      "description": "Stay safe online and know your digital rights",
+      "color": "#9C27B0"
+    },
+    {
+      "id": "elections",
+      "title": "Understanding Elections",
+      "icon": "🗳️",
+      "description": "Learn how democracy works in India",
+      "color": "#F44336"
+    }
+  ],
+  "youth": [
+    {
+      "id": "fundamental-rights-depth",
+      "title": "Fundamental Rights in Depth",
+      "icon": "⚖️",
+      "description": "Comprehensive understanding of constitutional rights",
+      "color": "#4CAF50"
+    },
+    {
+      "id": "governance",
+      "title": "Understanding Governance",
+      "icon": "🏛️",
+      "description": "Learn about the three pillars of democracy",
+      "color": "#2196F3"
+    },
+    {
+      "id": "landmark-cases",
+      "title": "Landmark Constitutional Cases",
+      "icon": "⚖️",
+      "description": "Famous Supreme Court judgments that shaped India",
+      "color": "#FF9800"
+    },
+    {
+      "id": "electoral-process",
+      "title": "Electoral Process & Voting",
+      "icon": "🗳️",
+      "description": "Complete guide to elections and your voting rights",
+      "color": "#9C27B0"
+    },
+    {
+      "id": "workplace-rights",
+      "title": "Rights in the Workplace",
+      "icon": "💼",
+      "description": "Know your constitutional rights at work",
+      "color": "#F44336"
+    }
+  ],
+  "senior": [
+    {
+      "id": "senior-rights",
+      "title": "Senior Citizen Rights",
+      "icon": "👴",
+      "description": "Special rights and protections for senior citizens",
+      "color": "#4CAF50"
+    },
+    {
+      "id": "healthcare-welfare",
+      "title": "Healthcare & Welfare Schemes",
+      "icon": "🏥",
+      "description": "Government schemes and benefits for seniors",
+      "color": "#2196F3"
+    },
+    {
+      "id": "constitutional-history",
+      "title": "Constitutional History",
+      "icon": "📖",
+      "description": "The making of our Constitution",
+      "color": "#FF9800"
+    },
+    {
+      "id": "pension-benefits",
+      "title": "Pension & Benefits",
+      "icon": "💰",
+      "description": "Understanding pension rights and benefits",
+      "color": "#9C27B0"
+    },
+    {
+      "id": "legal-aid",
+      "title": "Legal Aid & Support",
+      "icon": "⚖️",
+      "description": "Access to legal help and support services",
+      "color": "#F44336"
+    }
+  ]
+}

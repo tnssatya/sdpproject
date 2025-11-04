@@ -1,0 +1,41 @@
+[
+  {
+    "id": "teenager",
+    "name": "Teenager",
+    "icon": "🎓",
+    "description": "Perfect for students aged 13-19",
+    "features": [
+      "My Fundamental Rights",
+      "What is the Preamble?",
+      "My Duties as a Student Citizen",
+      "Cyber Laws & Safety",
+      "Understanding Elections"
+    ]
+  },
+  {
+    "id": "youth",
+    "name": "Youth",
+    "icon": "💼",
+    "description": "Tailored for young adults aged 20-35",
+    "features": [
+      "Fundamental Rights in Depth",
+      "Understanding Governance",
+      "Landmark Constitutional Cases",
+      "Electoral Process & Voting",
+      "Rights in the Workplace"
+    ]
+  },
+  {
+    "id": "senior",
+    "name": "Senior Citizen",
+    "icon": "👴",
+    "description": "Designed for citizens aged 60+",
+    "features": [
+      "Senior Citizen Rights",
+      "Healthcare & Welfare Schemes",
+      "Constitutional History",
+      "Pension & Benefits",
+      "Legal Aid & Support"
+    ]
+  }
+]

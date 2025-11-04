@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. B. R. Ambedkar",
+    "role": "Chairman, Drafting Committee",
+    "image": "https://via.placeholder.com/100/4CAF50/FFFFFF?text=BRA"
+  },
+  {
+    "id": 2,
+    "name": "Jawaharlal Nehru",
+    "role": "First Prime Minister",
+    "image": "https://via.placeholder.com/100/2196F3/FFFFFF?text=JN"
+  },
+  {
+    "id": 3,
+    "name": "Sardar Vallabhbhai Patel",
+    "role": "Deputy Prime Minister",
+    "image": "https://via.placeholder.com/100/FF9800/FFFFFF?text=SVP"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Rajendra Prasad",
+    "role": "First President of India",
+    "image": "https://via.placeholder.com/100/9C27B0/FFFFFF?text=RP"
+  }
+]
